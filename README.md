@@ -65,7 +65,7 @@ Now, my passion lies in <strong>building tech-driven solutions</strong>, learnin
   <a href="mailto:okemuhammed123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://muhammed23100.github.io/)/" target="_blank">
+  <a href="https://muhammed23100.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-50D5B7?style=for-the-badge&logo=react" />
   </a>
 </p>
